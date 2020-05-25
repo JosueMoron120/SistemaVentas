@@ -50,12 +50,12 @@ function agregaralatabla(){
     var celda5 = fila.insertCell(4);
     var celda6 = fila.insertCell(5);
 
-    /*celda1.innerHTML = producto.item;
+    celda1.innerHTML = producto.item;
     celda2.innerHTML = producto.cant;
     celda3.innerHTML = producto.descripcion;
     celda4.innerHTML = producto.marca;
     celda5.innerHTML = producto.precio;
-    celda6.innerHTML = producto.precio;*/ 
+    celda6.innerHTML = producto.precio;
 
     celda1.innerHTML = "1";
     celda2.innerHTML = "Cant: 2";
